@@ -1,5 +1,3 @@
-# Project Name
-
 **Softnio Job Task Using React**
 
 ## Live Website
