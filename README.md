@@ -9,7 +9,7 @@
 - **React Js**
 - **Bootstrap** 
 - **React Icons** 
-- **Tailwind CSS** 
+- **Bootstrap CSS** 
 
 ---
 
