@@ -8,8 +8,7 @@
 
 - **React Js**
 - **Bootstrap** 
-- **React Icons** 
-- **Bootstrap CSS** 
+- **React Icons**
 
 ---
 
